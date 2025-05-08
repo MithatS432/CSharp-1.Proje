@@ -1,0 +1,14 @@
+C:\Users\mitha\source\repos\MerhabaDünya1\MerhabaDünya1\bin\Debug\MerhabaDünya1.exe.config
+C:\Users\mitha\source\repos\MerhabaDünya1\MerhabaDünya1\bin\Debug\MerhabaDünya1.exe
+C:\Users\mitha\source\repos\MerhabaDünya1\MerhabaDünya1\bin\Debug\MerhabaDünya1.pdb
+C:\Users\mitha\source\repos\MerhabaDünya1\MerhabaDünya1\obj\Debug\MerhabaDünya1.csproj.AssemblyReference.cache
+C:\Users\mitha\source\repos\MerhabaDünya1\MerhabaDünya1\obj\Debug\MerhabaDünya1.csproj.CoreCompileInputs.cache
+C:\Users\mitha\source\repos\MerhabaDünya1\MerhabaDünya1\obj\Debug\MerhabaDünya1.exe
+C:\Users\mitha\source\repos\MerhabaDünya1\MerhabaDünya1\obj\Debug\MerhabaDünya1.pdb
+C:\Users\mitha\OneDrive\Masaüstü\C#\1\MerhabaDünya1\MerhabaDünya1\bin\Debug\MerhabaDünya1.exe.config
+C:\Users\mitha\OneDrive\Masaüstü\C#\1\MerhabaDünya1\MerhabaDünya1\bin\Debug\MerhabaDünya1.exe
+C:\Users\mitha\OneDrive\Masaüstü\C#\1\MerhabaDünya1\MerhabaDünya1\bin\Debug\MerhabaDünya1.pdb
+C:\Users\mitha\OneDrive\Masaüstü\C#\1\MerhabaDünya1\MerhabaDünya1\obj\Debug\MerhabaDünya1.csproj.AssemblyReference.cache
+C:\Users\mitha\OneDrive\Masaüstü\C#\1\MerhabaDünya1\MerhabaDünya1\obj\Debug\MerhabaDünya1.csproj.CoreCompileInputs.cache
+C:\Users\mitha\OneDrive\Masaüstü\C#\1\MerhabaDünya1\MerhabaDünya1\obj\Debug\MerhabaDünya1.exe
+C:\Users\mitha\OneDrive\Masaüstü\C#\1\MerhabaDünya1\MerhabaDünya1\obj\Debug\MerhabaDünya1.pdb
